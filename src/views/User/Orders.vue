@@ -3,7 +3,7 @@
   v-container
     v-layout(row)
       v-flex(sx12)
-        h1 Home
+        h1 Orders
 
 </template>
 
